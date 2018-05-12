@@ -1,0 +1,31 @@
+_repo: Manuel-de-Moraes--Chronica-do-Seculo-XVII_29819
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Silva, J. M. Pereira da (João Manuel Pereira)
+    aliases:
+    - Silva, João Manuel Pereira da
+    - Silva, J. M. Pereira da (Joao Manuel Pereira)
+    - Pereira da Silva, J. M. (João Manuel)
+    - Da Silva, J. M. Pereira (João Manuel Pereira)
+    birthdate: 1817
+    deathdate: 1898
+    gutenberg_agent_id: '34196'
+    url: http://www.gutenberg.org/2009/agents/34196
+description: ''
+gutenberg_issued: '2009-08-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29819'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Moraes, Manoel de, 1596-1651'
+title: 'Manuel de Moraes: Chronica do Seculo XVII'
+url: http://www.gutenberg.org/ebooks/29819
